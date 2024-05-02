@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95181896995",
+    "project_id": "labeller-4a1ea",
+    "storage_bucket": "labeller-4a1ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95181896995:android:26b87e826f1e3b837e6096",
+        "android_client_info": {
+          "package_name": "com.example.labeller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Xx8kqwe6Df-GsEKmgbG74799IeYs3bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
